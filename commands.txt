@@ -1,0 +1,1 @@
+Always run "export DISPLAY=:0" before running the scripts
