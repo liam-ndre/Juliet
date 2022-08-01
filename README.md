@@ -1,2 +1,2 @@
 # Juliet
-Just a small project for the girl I love
+Just a small project for someone.. :eyes:
